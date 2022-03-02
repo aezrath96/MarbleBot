@@ -24,7 +24,7 @@ connection.connect(function(err) {
 // cooldown
 
 var sayTime;
-var sayCooldown = 30 * 1000; // in millseconds
+var sayCooldown = COOLDOWNINSECONDS * 1000; // in millseconds
 
 // connect to twitch
 

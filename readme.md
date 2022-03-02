@@ -12,6 +12,8 @@ Create **.env** file and put this:
 
 You can get the token from: [Here](https://twitchapps.com/tmi/)
 
+Edit cooldown in **index.js** labeled as ``COOLDOWNINSECONDS``
+
 I will be working on automatizing this process via installer soon and updates.
 
 I also included PHP admin panel you can access with xampp [here](http://localhost).
@@ -35,3 +37,7 @@ To clone this repo, run:
 You need Node.js installed: [Here](https://nodejs.org/en/download/)
 
 Download from releases: [Here](https://github.com/aezrath96/MarbleBot/releases/)
+
+Note:
+
+Admin panel is optional, database is not.
