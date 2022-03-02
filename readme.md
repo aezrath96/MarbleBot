@@ -30,3 +30,7 @@ node index.js
 in command prompt you run as administrator.
 
 Run VoiceAttack as Admin too.
+
+To clone this repo, run:
+
+gh repo clone aezrath96/MarbleBot
