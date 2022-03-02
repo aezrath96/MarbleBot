@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+You need to download **VoiceAttack** first from:
+[here](https://voiceattack.com/)
 
-You can use the [editor on GitHub](https://github.com/aezrath96/MarbleBot/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Then import the **marbles-Profile.vap** and **database.sql** file into your database.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I recommend creating a local database using xampp:
+[here](https://www.apachefriends.org/download.html)
 
-### Markdown
+Do not forget to edit code to match database to your info in both **mydb.php** and **index.js** files.
+Import **database.sql** via PHPmyAdmin.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Create **.env** file and put this:
+"export TWITCH_OAUTH_TOKEN='oauth:yourtoken'"
 
-```markdown
-Syntax highlighted code block
+You can get the token from:
 
-# Header 1
-## Header 2
-### Header 3
+[here](https://twitchapps.com/tmi/)
 
-- Bulleted
-- List
+I will be working on automatizing this process via installer soon and updates.
 
-1. Numbered
-2. List
+I also included PHP admin panel.
 
-**Bold** and _Italic_ and `Code` text
+You will need ClientID too from Twitch Developer console.
+I will be working on a tutorial.
 
-[Link](url) and ![Image](src)
-```
+You start it using:
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+`node index.js`
 
-### Jekyll Themes
+in command prompt you run as administrator.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aezrath96/MarbleBot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Run VoiceAttack as Admin too.
 
-### Support or Contact
+To clone this repo, run:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+`gh repo clone aezrath96/MarbleBot`
+
+You need Node.js installed:
+
+[here](https://nodejs.org/en/download/)
