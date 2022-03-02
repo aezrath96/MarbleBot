@@ -14,7 +14,7 @@ You can get the token from: [Here](https://twitchapps.com/tmi/)
 
 I will be working on automatizing this process via installer soon and updates.
 
-I also included PHP admin panel.
+I also included PHP admin panel you can access with xampp [here](http://localhost).
 
 You will need ClientID too from Twitch Developer console. [Here](https://dev.twitch.tv/console)
 
