@@ -1,10 +1,8 @@
-You need to download **VoiceAttack** first from:
-[here](https://voiceattack.com/)
+You need to download **VoiceAttack** first from: [Here](https://voiceattack.com/)
 
 Then import the **marbles-Profile.vap** and **database.sql** file into your database.
 
-I recommend creating a local database using xampp:
-[here](https://www.apachefriends.org/download.html)
+I recommend creating a local database using xampp: [Here](https://www.apachefriends.org/download.html)
 
 Do not forget to edit code to match database to your info in both **mydb.php** and **index.js** files.
 Import **database.sql** via PHPmyAdmin.
@@ -12,9 +10,7 @@ Import **database.sql** via PHPmyAdmin.
 Create **.env** file and put this:
 "export TWITCH_OAUTH_TOKEN='oauth:yourtoken'"
 
-You can get the token from:
-
-[here](https://twitchapps.com/tmi/)
+You can get the token from: [Here](https://twitchapps.com/tmi/)
 
 I will be working on automatizing this process via installer soon and updates.
 
@@ -35,6 +31,4 @@ To clone this repo, run:
 
 `gh repo clone aezrath96/MarbleBot`
 
-You need Node.js installed:
-
-[here](https://nodejs.org/en/download/)
+You need Node.js installed: [Here](https://nodejs.org/en/download/)
