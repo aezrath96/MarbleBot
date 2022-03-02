@@ -38,3 +38,7 @@ To clone this repo, run:
 You need Node.js installed:
 
 https://nodejs.org/en/download/
+
+Download from releases:
+
+https://github.com/aezrath96/MarbleBot/releases/

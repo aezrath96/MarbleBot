@@ -32,3 +32,5 @@ To clone this repo, run:
 `gh repo clone aezrath96/MarbleBot`
 
 You need Node.js installed: [Here](https://nodejs.org/en/download/)
+
+Download from releases: [Here](https://github.com/aezrath96/MarbleBot/releases/)
