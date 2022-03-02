@@ -7,7 +7,7 @@ var mysql = require('mysql');
 var axios = require('axios');
 const request = require('request');
 
-const clientId = 'x698b0d2l4cxwjszb64ytullrlxpdd';
+const clientId = 'YOURCLIENTID';
 
 var connection = mysql.createConnection({
   host     : 'localhost',
