@@ -34,3 +34,7 @@ Run VoiceAttack as Admin too.
 To clone this repo, run:
 
 `gh repo clone aezrath96/MarbleBot`
+
+You need Node.js installed:
+
+https://nodejs.org/en/download/
