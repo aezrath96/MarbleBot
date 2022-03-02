@@ -8,7 +8,7 @@ Do not forget to edit code to match database to your info in both **mydb.php** a
 Import **database.sql** via PHPmyAdmin.
 
 Create **.env** file and put this:
-"export TWITCH_OAUTH_TOKEN='oauth:yourtoken'"
+`export TWITCH_OAUTH_TOKEN='oauth:yourtoken'`
 
 You can get the token from: [Here](https://twitchapps.com/tmi/)
 
