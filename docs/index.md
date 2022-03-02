@@ -16,7 +16,8 @@ I will be working on automatizing this process via installer soon and updates.
 
 I also included PHP admin panel.
 
-You will need ClientID too from Twitch Developer console.
+You will need ClientID too from Twitch Developer console. [Here](https://dev.twitch.tv/console)
+
 I will be working on a tutorial.
 
 You start it using:
