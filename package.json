@@ -28,7 +28,7 @@
     "minimist": "^1.2.5",
     "mongoose": "^6.2.3",
     "mysql": "^2.18.1",
-    "node-libcurl": "^2.3.4",
+    "node-libcurl": "^4.0.0",
     "process": "^0.11.10",
     "redis": "^4.0.4",
     "request": "^2.88.2",
